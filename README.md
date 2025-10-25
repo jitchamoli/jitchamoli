@@ -2,9 +2,9 @@
 
 I’m a HongKong-based Senior iOS Engineer with over 10 years of experience developing scalable mobile apps.
 
-🌍  I'm based in Hong Kong
-✉️  You can contact me at jitendrachamoli@gmail.com
-🤝  I'm open to collaborating on projects as a developer.
+- 🌍 Based in Hong Kong
+- ✉️ [jitendrachamoli@gmail.com](mailto:jitendrachamoli@gmail.com)
+- 🤝 Open to collaborating on iOS projects
 
 <!--
 **chamolijitendra/chamolijitendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
